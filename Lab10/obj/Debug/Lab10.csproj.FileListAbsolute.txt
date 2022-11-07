@@ -1,0 +1,11 @@
+D:\C#\Лабы\Lab10\bin\Debug\Lab10.exe.config
+D:\C#\Лабы\Lab10\bin\Debug\Lab10.exe
+D:\C#\Лабы\Lab10\bin\Debug\Lab10.pdb
+D:\C#\Лабы\Lab10\obj\Debug\Lab10.csproj.AssemblyReference.cache
+D:\C#\Лабы\Lab10\obj\Debug\Lab10.csproj.SuggestedBindingRedirects.cache
+D:\C#\Лабы\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+D:\C#\Лабы\Lab10\obj\Debug\Lab10.exe
+D:\C#\Лабы\Lab10\obj\Debug\Lab10.pdb
+D:\C#\Лабы\Lab10\obj\Debug\Lab10.csproj.CopyComplete
+D:\C#\Лабы\Lab10\bin\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы\Lab10\bin\Debug\ClassLibraryLab10.pdb
