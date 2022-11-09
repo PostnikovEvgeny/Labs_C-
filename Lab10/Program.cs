@@ -7,7 +7,7 @@ using ClassLibraryLab10;
 
 namespace Lab10
 {
-    internal class Program
+    public class Program
     {
         static void Query(Trial []arr,ref int count1, ref int count2, ref string subject, ref int score)
         {
@@ -143,13 +143,13 @@ namespace Lab10
             WriteArr(randomInits);
             Console.WriteLine();
 
-            IRandomInit[] randomInits1 = new IRandomInit[] { t1, t2, t3, t4, t5, t6, t7, t8};
+            Trial[] randomInits1 = new Trial[] { t1, t2, t3, t4, t5, t6, t7, t8};
             Console.WriteLine("Сортировка массива IComparable");
             Array.Sort(randomInits1);
             WriteArr(randomInits1);
             Console.WriteLine();
 
-            IRandomInit[] randomInits2 = new IRandomInit[] { t9, t10, t11, t12, t13, t14, t15};
+            Person[] randomInits2 = new Person[] { t9, t10, t11, t12, t13, t14, t15};
             Console.WriteLine("Сортировка массива IComparer");
             Array.Sort(randomInits2, new SortByAge());
             WriteArr(randomInits2);
@@ -169,7 +169,30 @@ namespace Lab10
             }
             Console.WriteLine();
 
+            Console.WriteLine("Клонирование объекта");
+            Person clone = (Person)randomInits2[0].Clone();
+            clone.Show();
+            clone.Name="клон-"+clone.Name;
+            clone.SecondName = "клон-" + clone.SecondName;
+            clone.LastName = "клон-"+clone.LastName;
+            clone.id.number = 22;
+            Console.Write("Клон: ");
+            clone.Show();
+            Console.Write("Оригинал: ");
+            randomInits2[0].Show();
+            Console.WriteLine();
 
+            Console.WriteLine("Копирование объекта");
+            Person copy = (Person)randomInits2[1].ShallowCopy();
+            copy.Show();
+            copy.Name = "копия-" + copy.Name;
+            copy.SecondName = "копия-" + copy.SecondName;
+            copy.LastName = "копия-" + copy.LastName;
+            copy.id.number = 11;
+            Console.Write("Копия: ");
+            copy.Show();
+            Console.Write("Оригинал: ");
+            randomInits2[1].Show();
             Console.ReadKey();
         }     
     }
