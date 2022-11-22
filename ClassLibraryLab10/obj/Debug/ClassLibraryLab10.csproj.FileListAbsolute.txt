@@ -1,0 +1,18 @@
+D:\C#\Лабы\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.pdb
+D:\C#\Лабы\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.AssemblyReference.cache
+D:\C#\Лабы\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+D:\C#\Лабы\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.pdb
+D:\Лаба 10\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.dll
+D:\Лаба 10\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.pdb
+D:\Лаба 10\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.AssemblyReference.cache
+D:\Лаба 10\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+D:\Лаба 10\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.dll
+D:\Лаба 10\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.pdb
+F:\Лаба 10\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.dll
+F:\Лаба 10\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.pdb
+F:\Лаба 10\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.AssemblyReference.cache
+F:\Лаба 10\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+F:\Лаба 10\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.dll
+F:\Лаба 10\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.pdb
