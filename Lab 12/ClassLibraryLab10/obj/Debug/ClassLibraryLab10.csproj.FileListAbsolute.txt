@@ -1,0 +1,24 @@
+D:\C#\Лабы\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.pdb
+D:\C#\Лабы\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.AssemblyReference.cache
+D:\C#\Лабы\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+D:\C#\Лабы\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.pdb
+D:\C#\Лабы ООП\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы ООП\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.pdb
+D:\C#\Лабы ООП\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.AssemblyReference.cache
+D:\C#\Лабы ООП\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+D:\C#\Лабы ООП\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы ООП\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.pdb
+D:\Инфа лабы 2 курс\Лаба 11\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.dll
+D:\Инфа лабы 2 курс\Лаба 11\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.pdb
+D:\Инфа лабы 2 курс\Лаба 11\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.AssemblyReference.cache
+D:\Инфа лабы 2 курс\Лаба 11\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+D:\Инфа лабы 2 курс\Лаба 11\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.dll
+D:\Инфа лабы 2 курс\Лаба 11\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.pdb
+D:\C#\Лабы ООП\Lab 12\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы ООП\Lab 12\ClassLibraryLab10\bin\Debug\ClassLibraryLab10.pdb
+D:\C#\Лабы ООП\Lab 12\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.AssemblyReference.cache
+D:\C#\Лабы ООП\Lab 12\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+D:\C#\Лабы ООП\Lab 12\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы ООП\Lab 12\ClassLibraryLab10\obj\Debug\ClassLibraryLab10.pdb

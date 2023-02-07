@@ -1,0 +1,11 @@
+D:\C#\Лабы ООП\Lab 12\Lab_12\bin\Debug\Lab_12.exe.config
+D:\C#\Лабы ООП\Lab 12\Lab_12\bin\Debug\Lab_12.exe
+D:\C#\Лабы ООП\Lab 12\Lab_12\bin\Debug\Lab_12.pdb
+D:\C#\Лабы ООП\Lab 12\Lab_12\bin\Debug\ClassLibraryLab10.dll
+D:\C#\Лабы ООП\Lab 12\Lab_12\bin\Debug\ClassLibraryLab10.pdb
+D:\C#\Лабы ООП\Lab 12\Lab_12\obj\Debug\Lab_12.csproj.AssemblyReference.cache
+D:\C#\Лабы ООП\Lab 12\Lab_12\obj\Debug\Lab_12.csproj.SuggestedBindingRedirects.cache
+D:\C#\Лабы ООП\Lab 12\Lab_12\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+D:\C#\Лабы ООП\Lab 12\Lab_12\obj\Debug\Lab_12.csproj.CopyComplete
+D:\C#\Лабы ООП\Lab 12\Lab_12\obj\Debug\Lab_12.exe
+D:\C#\Лабы ООП\Lab 12\Lab_12\obj\Debug\Lab_12.pdb
